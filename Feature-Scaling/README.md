@@ -6,7 +6,7 @@ Feature scaling helps normalize the range of independent variables, improving th
 
 ---
 
-## 📌 What is Feature Scaling?
+## 📌What is Feature Scaling?
 
 Feature Scaling is a technique used to standardize the range of features in a dataset so that no feature dominates others due to its scale.
 
