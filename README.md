@@ -46,6 +46,18 @@ This section includes:
 
 ---
 
+
+### 5. Function Transformation  
+This section includes:
+
+Log Transformation (for reducing right skewness)  
+Square Root Transformation  
+Square Transformation  
+Reciprocal Transformation  
+Improving data distribution for better model performance  
+
+---
+
 ## 🛠️ Tools and Libraries Used
 
 - Python
