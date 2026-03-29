@@ -56,6 +56,20 @@ Square Transformation
 Reciprocal Transformation  
 Improving data distribution for better model performance  
 
+## 6. Feature Selection  
+This section includes:
+Selecting relevant features for model training  
+Removing unnecessary and redundant features  
+Improving model efficiency and accuracy  
+Reducing overfitting  
+
+## 7. Train-Test Split  
+This section includes:
+Dividing data into training and testing sets  
+Evaluating model performance on unseen data  
+Preventing overfitting and data leakage  
+Implementation using sklearn  
+
 ---
 
 ## 🛠️ Tools and Libraries Used
