@@ -50,5 +50,3 @@ These steps are essential for building efficient, accurate, and reliable ML mode
 ---
 
 
-## 📂 Project Structure
-
