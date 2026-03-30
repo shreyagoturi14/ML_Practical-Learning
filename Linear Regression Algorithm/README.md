@@ -1,4 +1,4 @@
-# 📈 Linear Regression Algorithm (Machine Learning)
+# Linear Regression Algorithm (Machine Learning)
 
 This project demonstrates the implementation of **Linear Regression** techniques using Python and Scikit-learn.  
 It covers **Simple Linear Regression, Multiple Linear Regression, and Polynomial Regression** along with data visualization and model evaluation.
@@ -99,7 +99,7 @@ Helps in modeling complex patterns
 
 ---
 
-## 📈 Key Observations
+## Key Observations
 
 - Strong positive relationship between CGPA and Package  
 - Salary increases with experience and age  
