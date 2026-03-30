@@ -70,6 +70,16 @@ Evaluating model performance on unseen data
 Preventing overfitting and data leakage  
 Implementation using sklearn  
 
+## 8. Linear Regression  
+This section includes:
+
+Simple Linear Regression (CGPA vs Package)  
+Multiple Linear Regression (Experience & Age vs Salary)  
+Polynomial Regression for non-linear data  
+Data visualization using scatter plots, pairplots, and heatmaps  
+Model training, evaluation, and prediction using sklearn  
+Understanding relationships between variables and model performance  
+
 ---
 
 ## 🛠️ Tools and Libraries Used
