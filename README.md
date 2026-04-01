@@ -82,7 +82,7 @@ Understanding relationships between variables and model performance
 
 ---
 
-## 🛠️ Tools and Libraries Used
+## Tools and Libraries Used
 
 - Python
 - Pandas
