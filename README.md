@@ -72,13 +72,24 @@ Implementation using sklearn
 
 ## 8. Linear Regression  
 This section includes:
-
 Simple Linear Regression (CGPA vs Package)  
 Multiple Linear Regression (Experience & Age vs Salary)  
 Polynomial Regression for non-linear data  
 Data visualization using scatter plots, pairplots, and heatmaps  
 Model training, evaluation, and prediction using sklearn  
 Understanding relationships between variables and model performance  
+
+## 9. Regularization (Lasso & Ridge)
+
+This section includes:
+Understanding overfitting and the need for regularization  
+Linear Regression as a baseline model  
+Lasso Regression (L1) for feature selection  
+Ridge Regression (L2) for reducing coefficient magnitude  
+Feature scaling using StandardScaler  
+Model evaluation using MSE, MAE, and RMSE  
+Comparison of model coefficients and performance  
+Improving model generalization and stability  
 
 ---
 
