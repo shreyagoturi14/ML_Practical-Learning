@@ -1,4 +1,4 @@
-# 🔢 One Hot Encoding in Machine Learning
+## 🔢 One Hot Encoding in Machine Learning
 
 This project demonstrates the concept and implementation of **One Hot Encoding**, a technique used to convert categorical data into numerical format for Machine Learning models.
 
