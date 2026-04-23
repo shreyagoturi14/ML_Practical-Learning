@@ -56,6 +56,8 @@ Square Transformation
 Reciprocal Transformation  
 Improving data distribution for better model performance  
 
+---
+
 ## 6. Feature Selection  
 This section includes:
 Selecting relevant features for model training  
@@ -63,12 +65,16 @@ Removing unnecessary and redundant features
 Improving model efficiency and accuracy  
 Reducing overfitting  
 
+---
+
 ## 7. Train-Test Split  
 This section includes:
 Dividing data into training and testing sets  
 Evaluating model performance on unseen data  
 Preventing overfitting and data leakage  
 Implementation using sklearn  
+
+---
 
 ## 8. Linear Regression  
 This section includes:
@@ -78,6 +84,8 @@ Polynomial Regression for non-linear data
 Data visualization using scatter plots, pairplots, and heatmaps  
 Model training, evaluation, and prediction using sklearn  
 Understanding relationships between variables and model performance  
+
+----
 
 ## 9. Regularization (Lasso & Ridge)
 
