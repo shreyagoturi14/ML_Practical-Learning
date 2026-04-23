@@ -92,7 +92,17 @@ Comparison of model coefficients and performance
 Improving model generalization and stability  
 
 ---
+10. Logistic Regression
 
+This section includes:
+Binary Classification using Single Input  
+Binary Classification using Multiple Inputs  
+Polynomial Logistic Regression for non-linear classification  
+Multiclass Classification using OVR and Multinomial methods  
+Decision boundary visualization and class separation  
+Model training, evaluation, and prediction using sklearn  
+Understanding classification accuracy and model performance  
+---
 ## Tools and Libraries Used
 
 - Python
@@ -101,7 +111,7 @@ Improving model generalization and stability
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
+- mlxtend
 ---
 
 ## 🎯 Learning Goal
