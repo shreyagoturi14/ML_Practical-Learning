@@ -116,16 +116,16 @@ This section includes:
 
 This section includes:
 
-Understanding Confusion Matrix for classification model evaluation  
-True Positive (TP), True Negative (TN), False Positive (FP), False Negative (FN)  
-Type I Error and Type II Error concepts  
-Accuracy and Error Rate calculation  
-Precision for reducing False Positives  
-Recall for reducing False Negatives  
-F1-Score as the balance between Precision and Recall  
-Model evaluation using Logistic Regression and sklearn metrics  
-Heatmap visualization of Confusion Matrix using Seaborn  
-Better understanding of classification performance beyond accuracy
+- Understanding Confusion Matrix for classification model evaluation
+- True Positive (TP), True Negative (TN), False Positive (FP), False Negative (FN)
+- Type I Error and Type II Error concepts
+- Accuracy and Error Rate calculation
+- Precision for reducing False Positives
+- Recall for reducing False Negatives
+- F1-Score as the balance between Precision and Recall
+- Model evaluation using Logistic Regression and sklearn metrics
+- Heatmap visualization of Confusion Matrix using Seaborn
+- Better understanding of classification performance beyond accuracy
 ---
 
 ## Tools and Libraries Used
