@@ -1,7 +1,6 @@
 # Confusion Matrix, Precision, Recall & F1-Score
 
 This project explains how to evaluate classification models using **Confusion Matrix**, **Precision**, **Recall**, and **F1-Score** with Python and Scikit-learn.
-
 It helps in understanding how well a classification model performs beyond just accuracy.
 
 ---
