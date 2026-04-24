@@ -43,7 +43,7 @@ Where:
 Accuracy tells how many predictions are correct out of total predictions.
 
 ### Formula:
-Accuracy = (TP + TN) / (TP + TN + FP + FN)
+- Accuracy = (TP + TN) / (TP + TN + FP + FN)
 ---
 
 ## 4. Error Rate
@@ -51,7 +51,7 @@ Accuracy = (TP + TN) / (TP + TN + FP + FN)
 Error rate tells how many predictions are wrong.
 
 Formula:
-Error = (FP + FN) / (TP + TN + FP + FN)
+- Error = (FP + FN) / (TP + TN + FP + FN)
 ---
 
 ## 5. Recall (Sensitivity)
@@ -64,9 +64,9 @@ Disease Detection
 Spam Detection
 Fraud Detection
 Formula:
-Recall = TP / (TP + FN)
+- Recall = TP / (TP + FN)
 
-Higher Recall → Lower False Negatives
+- Higher Recall → Lower False Negatives
 ---
 
 ## 6. Precision
@@ -79,21 +79,21 @@ Cancer Detection
 Loan Approval
 Email Spam Detection
 Formula:
-Precision = TP / (TP + FP)
+- Precision = TP / (TP + FP)
 
-Higher Precision → Lower False Positives
+- Higher Precision → Lower False Positives
 ---
 
 ## 7. F1-Score
 
 F1-Score is the harmonic mean of Precision and Recall.
 
-It is useful when:
-Dataset is imbalanced
-Both FP and FN are important
-Domain knowledge is limited
+- It is useful when:
+- Dataset is imbalanced
+- Both FP and FN are important
+- Domain knowledge is limited
 Formula:
-F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
+- F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
 ---
 
 ## 8. Python Implementation
@@ -102,12 +102,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import precision_score
-from sklearn.metrics import recall_score
-from sklearn.metrics import f1_score
+- from sklearn.model_selection import train_test_split
+- from sklearn.linear_model import LogisticRegression
+- from sklearn.metrics import confusion_matrix
+- from sklearn.metrics import precision_score
+- from sklearn.metrics import recall_score
+- from sklearn.metrics import f1_score
 ---
 
 
