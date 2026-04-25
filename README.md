@@ -128,6 +128,21 @@ This section includes:
 - Better understanding of classification performance beyond accuracy
 ---
 
+## 12. Imbalanced Dataset Handling
+
+This section includes:
+- Understanding imbalanced datasets in classification problems
+- Identifying class imbalance using value_counts()
+- Problems caused by imbalanced data in model prediction
+- Logistic Regression performance on original imbalanced data
+- Random Under Sampling to reduce majority class samples
+- Random Over Sampling to increase minority class samples
+- Using RandomUnderSampler from imblearn
+- Using RandomOverSampler from imblearn
+- Comparing model performance before and after sampling
+- Improving model reliability beyond accuracy
+___
+
 ## Tools and Libraries Used
 
 - Python
@@ -137,6 +152,7 @@ This section includes:
 - Seaborn
 - Scikit-learn
 - mlxtend
+- imblearn
 ---
 
 ## 🎯 Learning Goal
