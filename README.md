@@ -143,6 +143,16 @@ This section includes:
 - Improving model reliability beyond accuracy
 ___
 
+## 13. Naive Bayes Algorithm
+
+This section includes:
+- Understanding Naive Bayes and Bayes Theorem
+- Gaussian, Multinomial, and Bernoulli Naive Bayes
+- Model training and testing using sklearn
+- Decision boundary visualization
+- Performance comparison of different Naive Bayes models
+- Selecting the best model based on dataset type
+---
 ## Tools and Libraries Used
 
 - Python
