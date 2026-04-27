@@ -174,5 +174,3 @@ The main goal of this repository is to build a strong foundation in Machine Lear
 ## 👩‍💻 Author
 
 **Shreya G**
-
-
