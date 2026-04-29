@@ -1,4 +1,4 @@
-# 📘 Logistic Regression Algorithm (Machine Learning)
+# Logistic Regression Algorithm (Machine Learning)
 
 This project demonstrates the implementation of **Logistic Regression** for classification problems using Python and Scikit-learn.
 
@@ -92,7 +92,6 @@ Used Iris dataset with 3 classes:
 Methods used:
 
 ### OVR (One vs Rest)
-
 - One class vs all remaining classes
 
 ### Multinomial Classification
