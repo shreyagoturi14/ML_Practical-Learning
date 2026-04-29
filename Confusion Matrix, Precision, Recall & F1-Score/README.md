@@ -128,5 +128,4 @@ Instead of focusing only on accuracy, we should understand:
 When Recall is important
 When Precision is important
 When F1-Score should be used
-
 This leads to better decision-making in Machine Learning projects.
