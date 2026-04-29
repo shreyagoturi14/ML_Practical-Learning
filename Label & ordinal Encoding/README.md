@@ -53,7 +53,7 @@ Categorical data represents features with discrete values such as:
 
 ---
 
-## ⚠️ Important Difference
+##  Important Difference
 
 | Feature | Label Encoding | Ordinal Encoding |
 |--------|---------------|------------------|
