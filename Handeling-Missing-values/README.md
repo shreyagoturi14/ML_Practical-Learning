@@ -18,7 +18,7 @@ Common reasons:
 
 ---
 
-## 🚀 Techniques Used to Handle Missing Values
+##  Techniques Used to Handle Missing Values
 
 ### 🔹 1. Removing Missing Values
 - Dropping rows or columns with missing data
