@@ -46,7 +46,6 @@ This section includes:
 
 ---
 
-
 ### 5. Function Transformation  
 This section includes:
 
@@ -57,7 +56,6 @@ Reciprocal Transformation
 Improving data distribution for better model performance  
 
 ---
-
 ## 6. Feature Selection  
 This section includes:
 Selecting relevant features for model training  
@@ -66,7 +64,6 @@ Improving model efficiency and accuracy
 Reducing overfitting  
 
 ---
-
 ## 7. Train-Test Split  
 This section includes:
 Dividing data into training and testing sets  
@@ -75,7 +72,6 @@ Preventing overfitting and data leakage
 Implementation using sklearn  
 
 ---
-
 ## 8. Linear Regression  
 This section includes:
 Simple Linear Regression (CGPA vs Package)  
@@ -86,7 +82,6 @@ Model training, evaluation, and prediction using sklearn
 Understanding relationships between variables and model performance  
 
 ----
-
 ## 9. Regularization (Lasso & Ridge)
 
 This section includes:
@@ -115,7 +110,6 @@ This section includes:
 ## 11. Confusion Matrix, Precision, Recall & F1-Score
 
 This section includes:
-
 - Understanding Confusion Matrix for classification model evaluation
 - True Positive (TP), True Negative (TN), False Positive (FP), False Negative (FN)
 - Type I Error and Type II Error concepts
