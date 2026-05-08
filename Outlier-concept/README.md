@@ -16,7 +16,6 @@ They may occur due to:
 - Natural variations in data
 
 ---
-
 ## Why Outlier Handling is Important?
 
 - Distorts statistical analysis (mean, variance)
@@ -43,7 +42,6 @@ Upper Bound = Q3 + 1.5 * IQR
 - Measures how far a data point is from the mean
 - Formula:
  Z = (X - Mean) / Standard Deviation
-
 - Typically:
   - |Z| > 3 → Outlier
 
@@ -69,7 +67,6 @@ Used plots such as:
 - Histograms
 
 to clearly identify and understand outliers.
-
 ---
 
 ## 🛠️ Technologies Used
