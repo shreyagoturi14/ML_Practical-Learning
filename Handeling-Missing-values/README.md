@@ -5,7 +5,6 @@ This project focuses on understanding and handling **missing data**, which is a 
 Missing values can negatively impact model performance, so it is important to handle them properly before training models.
 
 ---
-
 ## 📌 What are Missing Values?
 
 Missing values occur when no data is stored for a feature in a dataset.
