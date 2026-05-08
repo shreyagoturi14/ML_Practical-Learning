@@ -57,5 +57,3 @@ Works well on small datasets
 Fast and efficient
 Requires proper selection of variant based on data type
 Understanding data type is key to getting good performance from Naive Bayes.
-
-
