@@ -22,7 +22,6 @@ It is especially important for algorithms like:
 ### 🔹 1. Standardization (Z-score Normalization)
 - Transforms data to have mean = 0 and standard deviation = 1
 - Formula:
-  
   z = (x - mean) / standard deviation
 
 ---
