@@ -5,7 +5,6 @@ This project demonstrates the concept of **Regularization** using **Lasso (L1)**
 ---
 
 ## Project Overview
-
 In this project, I applied regularization techniques on a housing dataset to:
 
 - Improve model generalization  
@@ -43,7 +42,6 @@ In this project, I applied regularization techniques on a housing dataset to:
 ---
 
 ## Data Preprocessing
-
 - Removed unnecessary column (`date`)  
 - Checked missing values  
 - Applied **StandardScaler** for feature scaling  
@@ -52,14 +50,13 @@ In this project, I applied regularization techniques on a housing dataset to:
 ---
 
 ## Exploratory Data Analysis (EDA)
-
 - Correlation heatmap to understand relationships  
 - Identified highly correlated features  
 - Helped justify need for regularization  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python  
 - Pandas  
