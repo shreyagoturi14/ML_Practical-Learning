@@ -1,4 +1,4 @@
-# 🔄 Function Transformation in Machine Learning
+# Function Transformation in Machine Learning
 
 This project demonstrates the concept of **Function Transformation**, a technique used to transform data into a more suitable format for Machine Learning models.
 
@@ -25,7 +25,7 @@ Function Transformation is the process of applying mathematical functions to fea
 
 ---
 
-## 🛠️ Types of Transformations Used
+## Types of Transformations Used
 
 ### 🔹 1. Log Transformation
 - Used for right-skewed data
@@ -52,8 +52,6 @@ Function Transformation is the process of applying mathematical functions to fea
 ### 🔹 4. Reciprocal Transformation
 - Strong transformation for highly skewed data
   1/x
-
-  
 ---
 
 ## 📂 Project Workflow
@@ -70,7 +68,7 @@ Function Transformation is the process of applying mathematical functions to fea
 
 ---
 
-## 📊 Visualization
+## Visualization
 
 Used plots such as:
 - Histogram
@@ -90,7 +88,7 @@ to understand the effect of transformations.
 
 ---
 
-## 📊 Key Observations
+##  Key Observations
 
 - Log transformation effectively reduces right skewness
 - Square root transformation smoothens data distribution
