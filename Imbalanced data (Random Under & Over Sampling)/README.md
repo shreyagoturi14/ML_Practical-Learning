@@ -1,7 +1,6 @@
 # Imbalanced Dataset Handling (Random Under Sampling & Random Over Sampling)
 
 This project explains how to handle an **Imbalanced Dataset** using **Random Under Sampling** and **Random Over Sampling** techniques with Python and the `imblearn` library.
-
 It helps improve classification model performance when one class has significantly more samples than the other.
 ---
 
