@@ -13,7 +13,6 @@ Purchased
 0    257
 1    143
 Here:
-
 Class 0 has 257 samples
 Class 1 has 143 samples
 This creates imbalance and may lead to biased model predictions.
@@ -96,6 +95,5 @@ Imbalanced datasets can make machine learning models biased and unreliable.
 Using:
 Random Under Sampling
 Random Over Sampling
-
 helps improve classification performance and creates better model balance.
 Choosing the right sampling technique depends on the dataset and business problem.
