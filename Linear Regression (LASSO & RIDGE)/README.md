@@ -13,31 +13,28 @@ In this project, I applied regularization techniques on a housing dataset to:
 - Analyze feature importance using model coefficients  
 
 ---
-
 ## Concepts Covered
 
-### 🔹 1. Linear Regression (Baseline Model)
+### 1. Linear Regression (Baseline Model)
 - Used as a reference model  
 - Trained on all features  
 - Evaluated using accuracy and error metrics  
 
 ---
 
-### 🔹 2. Ridge Regression (L2 Regularization)
+### 2. Ridge Regression (L2 Regularization)
 
 - Adds penalty on squared coefficients  
 - Reduces magnitude of coefficients (but not zero)  
 - Helps handle multicollinearity  
 
-
 ---
 
-### 🔹 3. Lasso Regression (L1 Regularization)
+### 3. Lasso Regression (L1 Regularization)
 
 - Adds penalty on absolute values of coefficients  
 - Can shrink some coefficients to **zero**  
 - Performs **feature selection automatically**  
-
 
 ---
 
@@ -68,7 +65,6 @@ In this project, I applied regularization techniques on a housing dataset to:
 ---
 
 ## Project Workflow
-
 1. Loaded housing dataset  
 2. Dropped irrelevant columns  
 3. Checked missing values  
@@ -88,7 +84,6 @@ In this project, I applied regularization techniques on a housing dataset to:
 ---
 
 ## Model Comparison
-
 | Model | Purpose |
 |------|--------|
 | Linear Regression | Baseline model |
@@ -115,7 +110,6 @@ In this project, I applied regularization techniques on a housing dataset to:
   - Adjusting alpha value  
 
 ---
-
 Rgularization-ML/
 │
 ├── regularization_lasso_ridge.ipynb
