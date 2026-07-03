@@ -1,7 +1,6 @@
 # Function Transformation in Machine Learning
 
 This project demonstrates the concept of **Function Transformation**, a technique used to transform data into a more suitable format for Machine Learning models.
-
 Function transformation helps in handling skewed data, improving normality, and enhancing model performance.
 
 ---
@@ -15,19 +14,17 @@ Function Transformation is the process of applying mathematical functions to fea
 - Make relationships more linear
 
 ---
-
 ## Why Function Transformation is Important?
 
 - Many ML algorithms assume normally distributed data
 - Reduces the effect of extreme values
 - Improves convergence of models
 - Helps in better feature representation
-
 ---
 
 ## Types of Transformations Used
 
-### 🔹 1. Log Transformation
+### 1. Log Transformation
 - Used for right-skewed data
 - Reduces large values
 - Formula:
@@ -35,21 +32,21 @@ Function Transformation is the process of applying mathematical functions to fea
   
 ---
 
-### 🔹 2. Square Root Transformation
+### 2. Square Root Transformation
 - Reduces moderate skewness
 - Works well for positive values
   √x
 
 ---
 
-### 🔹 3. Square Transformation
+### 3. Square Transformation
 - Expands smaller values
 - Used when data is left-skewed
   x²
 
 ---
 
-### 🔹 4. Reciprocal Transformation
+### 4. Reciprocal Transformation
 - Strong transformation for highly skewed data
   1/x
 ---
@@ -94,7 +91,6 @@ to understand the effect of transformations.
 - Square root transformation smoothens data distribution
 - Reciprocal transformation strongly compresses large values
 - Proper transformation improves data quality for ML models
-
 ---
 
 
