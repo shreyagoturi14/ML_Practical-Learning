@@ -6,6 +6,7 @@ This project demonstrates the implementation of the **Naive Bayes Algorithm** us
 - Bernoulli Naive Bayes  
 
 It focuses on classification problems and compares the performance of different Naive Bayes models.
+
 ---
 
 ## 1. What is Naive Bayes?
@@ -14,7 +15,6 @@ It assumes that features are **independent** of each other (which is a “naive�
 
 ---
 ## 2. Bayes Theorem
-
 P(A|B) = (P(B|A) * P(A)) / P(B)
 Where:
 P(A|B) → Posterior Probability
@@ -51,7 +51,6 @@ from sklearn.naive_bayes import GaussianNB, MultinomialNB, BernoulliNB
 from mlxtend.plotting import plot_decision_regions
 
 ## Conclusion
-
 Naive Bayes is a simple yet powerful classification algorithm.
 Works well on small datasets
 Fast and efficient
