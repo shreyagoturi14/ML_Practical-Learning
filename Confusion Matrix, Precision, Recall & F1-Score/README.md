@@ -1,12 +1,10 @@
 # Confusion Matrix, Precision, Recall & F1-Score
-
 This project explains how to evaluate classification models using **Confusion Matrix**, **Precision**, **Recall**, and **F1-Score** with Python and Scikit-learn.
 It helps in understanding how well a classification model performs beyond just accuracy.
 
 ---
 
 ## 1. Confusion Matrix
-
 A **Confusion Matrix** is a simple and useful tool used to measure the performance of a classification model.
 
 It shows the number of:
@@ -39,7 +37,6 @@ Where:
 ---
 
 ## 3. Accuracy
-
 Accuracy tells how many predictions are correct out of total predictions.
 
 ### Formula:
@@ -47,7 +44,6 @@ Accuracy tells how many predictions are correct out of total predictions.
 ---
 
 ## 4. Error Rate
-
 Error rate tells how many predictions are wrong.
 
 Formula:
@@ -55,7 +51,6 @@ Formula:
 ---
 
 ## 5. Recall (Sensitivity)
-
 Recall measures how many actual positive cases are correctly identified.
 It is important when reducing False Negatives is critical.
 
@@ -70,7 +65,6 @@ Formula:
 ---
 
 ## 6. Precision
-
 Precision measures how many predicted positive cases are actually correct.
 It is important when reducing False Positives matters.
 
@@ -85,7 +79,6 @@ Formula:
 ---
 
 ## 7. F1-Score
-
 F1-Score is the harmonic mean of Precision and Recall.
 
 - It is useful when:
@@ -121,7 +114,6 @@ Choosing the right metric depends on the problem statement
 ---
 
 ## Conclusion
-
 Confusion Matrix and evaluation metrics help us select better models for real-world classification problems.
 Instead of focusing only on accuracy, we should understand:
 
