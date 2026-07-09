@@ -160,11 +160,4 @@ This section includes:
 ---
 
 ##  Learning Goal
-
 The main goal of this repository is to build a strong foundation in Machine Learning by practicing essential data preprocessing techniques and understanding their impact on model performance.
-
----
-
-## 👩‍💻 Author
-
-**Shreya G**
