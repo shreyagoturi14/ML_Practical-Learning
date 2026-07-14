@@ -86,11 +86,8 @@ to understand the effect of transformations.
 ---
 
 ##  Key Observations
-
 - Log transformation effectively reduces right skewness
 - Square root transformation smoothens data distribution
 - Reciprocal transformation strongly compresses large values
 - Proper transformation improves data quality for ML models
 ---
-
-
