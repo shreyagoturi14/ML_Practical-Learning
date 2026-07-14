@@ -6,7 +6,7 @@ Feature scaling helps normalize the range of independent variables, improving th
 
 ---
 
-## 📌What is Feature Scaling?
+## What is Feature Scaling?
 
 Feature Scaling is a technique used to standardize the range of features in a dataset so that no feature dominates others due to its scale.
 
@@ -19,14 +19,14 @@ It is especially important for algorithms like:
 
 ## Types of Feature Scaling
 
-### 🔹 1. Standardization (Z-score Normalization)
+### 1. Standardization (Z-score Normalization)
 - Transforms data to have mean = 0 and standard deviation = 1
 - Formula:
   z = (x - mean) / standard deviation
 
 ---
 
-### 🔹 2. Normalization (Min-Max Scaling)
+### 2. Normalization (Min-Max Scaling)
 - Scales data to a fixed range [0,1]
 - Formula:
 
@@ -64,7 +64,6 @@ In this project:
 - Scaling improves model performance
 - Standardization works well for normally distributed data
 - Normalization is useful when data has no clear distribution
-
 ---
 
 ## ▶️ How to Run
