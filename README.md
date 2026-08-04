@@ -18,8 +18,6 @@ This section includes:
 - Normalization (Min-Max Scaling)
 - Understanding the importance of scaling
 
----
-
 ### 3. Encoding Techniques
 
 #### One Hot Encoding
@@ -31,16 +29,12 @@ This section includes:
 #### Ordinal Encoding
 - Encoding ordered categorical data
 
----
-
 ### 4. Outlier Detection
 This section includes:
 - Boxplot visualization
 - Histogram and distribution analysis
 - Z-Score method
 - IQR (Interquartile Range) method
-
----
 
 ### 5. Function Transformation  
 This section includes:
@@ -51,7 +45,6 @@ Square Transformation
 Reciprocal Transformation  
 Improving data distribution for better model performance  
 
----
 ## 6. Feature Selection  
 This section includes:
 Selecting relevant features for model training  
@@ -59,7 +52,6 @@ Removing unnecessary and redundant features
 Improving model efficiency and accuracy  
 Reducing overfitting  
 
----
 ## 7. Train-Test Split  
 This section includes:
 Dividing data into training and testing sets  
