@@ -3,8 +3,6 @@
 This repository contains my hands-on learning and practice in Machine Learning.
 It focuses on important data preprocessing techniques and concepts implemented using Python.
 
----
-
 ## 📂 Repository Structure
 
 ### 1. Handling Missing Values
@@ -13,8 +11,6 @@ This section includes:
 - Mean, Median, Mode imputation
 - Dropping missing values
 - Using SimpleImputer
-
----
 
 ### 2. Feature Scaling
 This section includes:
