@@ -59,7 +59,6 @@ Evaluating model performance on unseen data
 Preventing overfitting and data leakage  
 Implementation using sklearn  
 
----
 ## 8. Linear Regression  
 This section includes:
 Simple Linear Regression (CGPA vs Package)  
@@ -69,7 +68,6 @@ Data visualization using scatter plots, pairplots, and heatmaps
 Model training, evaluation, and prediction using sklearn  
 Understanding relationships between variables and model performance  
 
-----
 ## 9. Regularization (Lasso & Ridge)
 
 This section includes:
@@ -82,7 +80,6 @@ Model evaluation using MSE, MAE, and RMSE
 Comparison of model coefficients and performance  
 Improving model generalization and stability  
 
----
 ## 10. Logistic Regression
 
 This section includes:
@@ -94,7 +91,6 @@ This section includes:
 - **Model Training, Evaluation, and Prediction** using sklearn  
 - Understanding classification accuracy and model performance  
 
----
 ## 11. Confusion Matrix, Precision, Recall & F1-Score
 
 This section includes:
@@ -108,7 +104,7 @@ This section includes:
 - Model evaluation using Logistic Regression and sklearn metrics
 - Heatmap visualization of Confusion Matrix using Seaborn
 - Better understanding of classification performance beyond accuracy
----
+
 
 ## 12. Imbalanced Dataset Handling
 
@@ -123,7 +119,7 @@ This section includes:
 - Using RandomOverSampler from imblearn
 - Comparing model performance before and after sampling
 - Improving model reliability beyond accuracy
-___
+
 
 ## 13. Naive Bayes Algorithm
 
@@ -134,7 +130,7 @@ This section includes:
 - Decision boundary visualization
 - Performance comparison of different Naive Bayes models
 - Selecting the best model based on dataset type
----
+
 ## Tools and Libraries Used
 
 - Python
@@ -145,7 +141,7 @@ This section includes:
 - Scikit-learn
 - mlxtend
 - imblearn
----
+
 
 ##  Learning Goal
 The main goal of this repository is to build a strong foundation in Machine Learning by practicing essential data preprocessing techniques and understanding their impact on model performance.
