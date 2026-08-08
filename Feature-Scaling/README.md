@@ -4,8 +4,6 @@ This project focuses on understanding and implementing **Feature Scaling**, an e
 
 Feature scaling helps normalize the range of independent variables, improving the performance and convergence of ML models.
 
----
-
 ## What is Feature Scaling?
 
 Feature Scaling is a technique used to standardize the range of features in a dataset so that no feature dominates others due to its scale.
@@ -15,8 +13,6 @@ It is especially important for algorithms like:
 - Support Vector Machines (SVM)
 - Gradient Descent-based models
 
----
-
 ## Types of Feature Scaling
 
 ### 1. Standardization (Z-score Normalization)
@@ -24,7 +20,6 @@ It is especially important for algorithms like:
 - Formula:
   z = (x - mean) / standard deviation
 
----
 
 ### 2. Normalization (Min-Max Scaling)
 - Scales data to a fixed range [0,1]
@@ -32,7 +27,6 @@ It is especially important for algorithms like:
 
   x' = (x - min) / (max - min)
 
----
 
 ## 🛠️ Technologies Used
 
@@ -41,8 +35,6 @@ It is especially important for algorithms like:
 - NumPy
 - Matplotlib / Seaborn
 - Scikit-learn
-
----
 
 ## 📂 Project Description
 
@@ -56,17 +48,10 @@ In this project:
 - Compared original vs scaled data
 - Visualized the impact of scaling
 
----
 
-## 📊 Key Observations
+## Key Observations
 
 - Features with large ranges dominate smaller ones
 - Scaling improves model performance
 - Standardization works well for normally distributed data
 - Normalization is useful when data has no clear distribution
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
