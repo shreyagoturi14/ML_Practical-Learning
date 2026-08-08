@@ -132,7 +132,6 @@ This section includes:
 - Selecting the best model based on dataset type
 
 ## Tools and Libraries Used
-
 - Python
 - Pandas
 - NumPy
