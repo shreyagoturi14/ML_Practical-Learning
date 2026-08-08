@@ -4,7 +4,6 @@ This project focuses on understanding and handling **missing data**, which is a 
 
 Missing values can negatively impact model performance, so it is important to handle them properly before training models.
 
----
 ##  What are Missing Values?
 
 Missing values occur when no data is stored for a feature in a dataset.
@@ -15,15 +14,12 @@ Common reasons:
 - System failures
 - Incomplete data entry
 
----
-
 ##  Techniques Used to Handle Missing Values
 
 ### 1. Removing Missing Values
 - Dropping rows or columns with missing data
 - Useful when missing values are very few
 
----
 
 ### 2. Mean / Median / Mode Imputation
 - Replace missing values with:
@@ -31,19 +27,15 @@ Common reasons:
   - Median (for skewed data)
   - Mode (for categorical data)
 
----
 
 ### 3. Forward Fill / Backward Fill
 - Fill missing values using previous or next values
 - Useful in time-series data
 
----
 
 ### 4. Using Scikit-learn Imputer
 - `SimpleImputer` used for automated handling
 - Efficient and commonly used in ML pipelines
-
----
 
 ## 🛠️ Technologies Used
 
@@ -52,8 +44,6 @@ Common reasons:
 - NumPy
 - Matplotlib / Seaborn
 - Scikit-learn
-
----
 
 ## 📂 Project Workflow
 
@@ -66,18 +56,10 @@ Common reasons:
    - Using SimpleImputer
 5. Compared results before and after preprocessing
 
----
-
 ## 📊 Key Learnings
 
 - Missing data must be handled before model training
 - Different techniques are used based on data type
 - Median is better for skewed data
 - Removing data is not always the best option
-- Proper preprocessing improves model accuracy
----
-
-## ▶️ How to Run the Project
-
-1. Clone the repository:
-
+- Proper preprocessing improves model accuracy.
