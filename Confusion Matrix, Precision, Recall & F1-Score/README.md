@@ -2,8 +2,6 @@
 This project explains how to evaluate classification models using **Confusion Matrix**, **Precision**, **Recall**, and **F1-Score** with Python and Scikit-learn.
 It helps in understanding how well a classification model performs beyond just accuracy.
 
----
-
 ## 1. Confusion Matrix
 A **Confusion Matrix** is a simple and useful tool used to measure the performance of a classification model.
 
@@ -17,7 +15,6 @@ It shows the number of:
 
 It is also called an **Error Matrix**.
 
----
 ## 2. Structure of Confusion Matrix
 
 | Actual / Predicted | Predicted 0 | Predicted 1 |
@@ -34,21 +31,20 @@ Where:
 - **FP (False Positive)** → Model predicted Yes, but actual value is No  
   (**Type I Error**)
 
----
 
 ## 3. Accuracy
 Accuracy tells how many predictions are correct out of total predictions.
 
 ### Formula:
 - Accuracy = (TP + TN) / (TP + TN + FP + FN)
----
+
 
 ## 4. Error Rate
 Error rate tells how many predictions are wrong.
 
 Formula:
 - Error = (FP + FN) / (TP + TN + FP + FN)
----
+- 
 
 ## 5. Recall (Sensitivity)
 Recall measures how many actual positive cases are correctly identified.
@@ -62,7 +58,7 @@ Formula:
 - Recall = TP / (TP + FN)
 
 - Higher Recall → Lower False Negatives
----
+
 
 ## 6. Precision
 Precision measures how many predicted positive cases are actually correct.
@@ -76,7 +72,7 @@ Formula:
 - Precision = TP / (TP + FP)
 
 - Higher Precision → Lower False Positives
----
+
 
 ## 7. F1-Score
 F1-Score is the harmonic mean of Precision and Recall.
@@ -87,7 +83,7 @@ F1-Score is the harmonic mean of Precision and Recall.
 - Domain knowledge is limited
 Formula:
 - F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
----
+  
 
 ## 8. Python Implementation
 Libraries Used
@@ -101,7 +97,6 @@ import seaborn as sns
 - from sklearn.metrics import precision_score
 - from sklearn.metrics import recall_score
 - from sklearn.metrics import f1_score
----
 
 
 10. Key Learning
@@ -111,7 +106,6 @@ Recall helps reduce False Negatives
 Precision helps reduce False Positives
 F1-Score balances both Precision and Recall
 Choosing the right metric depends on the problem statement
----
 
 ## Conclusion
 Confusion Matrix and evaluation metrics help us select better models for real-world classification problems.
