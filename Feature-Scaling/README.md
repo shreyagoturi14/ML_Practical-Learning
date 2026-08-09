@@ -1,7 +1,6 @@
 # Feature Scaling in Machine Learning
 
 This project focuses on understanding and implementing **Feature Scaling**, an essential preprocessing step in Machine Learning.
-
 Feature scaling helps normalize the range of independent variables, improving the performance and convergence of ML models.
 
 ## What is Feature Scaling?
