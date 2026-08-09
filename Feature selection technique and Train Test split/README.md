@@ -32,7 +32,6 @@ These steps are essential for building efficient, accurate, and reliable ML mode
 ├── Train Test and split In.ipynb
 ├── README.md
 
-
 ## Key Takeaways
 
 - Feature selection improves model efficiency  
