@@ -2,7 +2,6 @@
 
 This project explains how to handle an **Imbalanced Dataset** using **Random Under Sampling** and **Random Over Sampling** techniques with Python and the `imblearn` library.
 It helps improve classification model performance when one class has significantly more samples than the other.
----
 
 ## 1. What is an Imbalanced Dataset?
 An imbalanced dataset occurs when the target variable classes are not equally distributed.
