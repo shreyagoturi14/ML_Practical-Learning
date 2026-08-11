@@ -1,10 +1,8 @@
-## 🔢 One Hot Encoding in Machine Learning
+##  One Hot Encoding in Machine Learning
 
 This project demonstrates the concept and implementation of **One Hot Encoding**, a technique used to convert categorical data into numerical format for Machine Learning models.
 
 Handling categorical variables properly is essential because most ML algorithms cannot work with non-numeric data.
-
----
 
 ## What is One Hot Encoding?
 
@@ -14,16 +12,12 @@ Each category is transformed into a new column, and values are assigned as:
 - **1** → if the category is present  
 - **0** → if the category is not present  
 
----
-
 ## Why One Hot Encoding is Important?
 
 - Machine Learning models require numerical input
 - Prevents incorrect ordering of categories
 - Avoids misleading relationships between categories
 - Improves model performance
-
----
 
 ## 🛠️ Technologies Used
 
@@ -32,7 +26,6 @@ Each category is transformed into a new column, and values are assigned as:
 - NumPy
 - Scikit-learn
 
----
 
 ## 📂 Project Workflow
 
@@ -44,7 +37,6 @@ Each category is transformed into a new column, and values are assigned as:
 4. Compared original vs encoded data
 5. Analyzed the transformed dataset
 
----
 
 ## ⚙️ Implementation Methods
 
