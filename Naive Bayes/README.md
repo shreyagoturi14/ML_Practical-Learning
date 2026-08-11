@@ -7,13 +7,10 @@ This project demonstrates the implementation of the **Naive Bayes Algorithm** us
 
 It focuses on classification problems and compares the performance of different Naive Bayes models.
 
----
-
 ## 1. What is Naive Bayes?
 Naive Bayes is a **probability-based classification algorithm** based on **Bayes’ Theorem**.
 It assumes that features are **independent** of each other (which is a “naive” assumption).
 
----
 ## 2. Bayes Theorem
 P(A|B) = (P(B|A) * P(A)) / P(B)
 Where:
@@ -49,7 +46,6 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB, MultinomialNB, BernoulliNB
 from mlxtend.plotting import plot_decision_regions
-
 ## Conclusion
 Naive Bayes is a simple yet powerful classification algorithm.
 Works well on small datasets
