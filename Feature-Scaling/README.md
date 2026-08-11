@@ -4,7 +4,6 @@ This project focuses on understanding and implementing **Feature Scaling**, an e
 Feature scaling helps normalize the range of independent variables, improving the performance and convergence of ML models.
 
 ## What is Feature Scaling?
-
 Feature Scaling is a technique used to standardize the range of features in a dataset so that no feature dominates others due to its scale.
 
 It is especially important for algorithms like:
@@ -46,8 +45,6 @@ In this project:
   - MinMaxScaler
 - Compared original vs scaled data
 - Visualized the impact of scaling
-
-
 ## Key Observations
 
 - Features with large ranges dominate smaller ones
