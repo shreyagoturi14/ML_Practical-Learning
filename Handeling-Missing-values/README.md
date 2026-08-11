@@ -1,5 +1,4 @@
 #  Handling Missing Values in Machine Learning
-
 This project focuses on understanding and handling **missing data**, which is a crucial step in data preprocessing for Machine Learning.
 
 Missing values can negatively impact model performance, so it is important to handle them properly before training models.
