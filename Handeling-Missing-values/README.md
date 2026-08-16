@@ -55,7 +55,7 @@ Common reasons:
    - Using SimpleImputer
 5. Compared results before and after preprocessing
 
-## 📊 Key Learnings
+##  Key Learnings
 
 - Missing data must be handled before model training
 - Different techniques are used based on data type
