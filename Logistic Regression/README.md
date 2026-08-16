@@ -10,8 +10,6 @@ It covers:
 
 This project helps in understanding how Logistic Regression works for predicting categorical outcomes.
 
----
-
 ## 📌 Project Overview
 
 In this project, I explored Logistic Regression for solving classification problems where the target variable is categorical (0/1 or multiple classes).
@@ -24,10 +22,8 @@ The workflow includes:
 - Model accuracy evaluation
 - Binary and multiclass classification
 
----
-
 ## Concepts Covered
----
+
 ###  1. Logistic Regression – Single Input
 
 - One independent variable (Age)
@@ -62,8 +58,6 @@ Learned:
 - Intercept understanding
 - Decision region plotting using `mlxtend`
 
----
-
 ### 3. Polynomial Logistic Regression
 
 - Used when data is non-linear
@@ -79,7 +73,6 @@ Learned:
 - Polynomial feature transformation
 - Better classification for complex patterns
 
----
 
 ### 4. Multiclass Logistic Regression
 
@@ -103,7 +96,6 @@ Methods used:
 - Pairplot visualization
 - Species prediction
 
----
 
 ## Exploratory Data Analysis (EDA)
 
@@ -114,7 +106,7 @@ Performed:
 - Class separation understanding
 
 Used to understand whether data is linearly separable or requires polynomial transformation.
----
+
 ## Technologies Used
 
 - Python  
@@ -124,7 +116,7 @@ Used to understand whether data is linearly separable or requires polynomial tra
 - Seaborn  
 - Scikit-learn  
 - mlxtend  
----
+
 ## 📂 Project Workflow
 
 1. Loaded datasets
@@ -141,7 +133,7 @@ Used to understand whether data is linearly separable or requires polynomial tra
 9. Predicted outcomes using `.predict()`
 10. Visualized decision boundaries
 
----
+
 
 ## Model Performance
 
@@ -157,8 +149,6 @@ Accuracy: **52.5%**
 ### Multiclass Classification
 Accuracy: **100%**
 
----
-
 ## 📈 Key Observations
 
 - Logistic Regression works well for binary classification
@@ -166,4 +156,3 @@ Accuracy: **100%**
 - Polynomial features help with non-linear classification
 - OVR and Multinomial both work well for multiclass problems
 - Data visualization helps in selecting the right model
----
