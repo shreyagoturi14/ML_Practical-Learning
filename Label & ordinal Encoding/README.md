@@ -4,8 +4,6 @@ This project focuses on converting categorical data into numerical format using 
 
 Since most ML algorithms cannot handle categorical data directly, encoding techniques are used to transform them into a suitable format.
 
----
-
 ## 📌 What is Categorical Data?
 
 Categorical data represents features with discrete values such as:
@@ -13,11 +11,9 @@ Categorical data represents features with discrete values such as:
 - Sizes (Small, Medium, Large)
 - Categories (Yes/No)
 
----
-
 ## Encoding Techniques Used
 
-### 🔹 1. Label Encoding
+###  1. Label Encoding
 
 - Converts categories into numerical labels
 - Each unique category is assigned an integer value
@@ -36,7 +32,7 @@ Categorical data represents features with discrete values such as:
 
 ---
 
-### 🔹 2. Ordinal Encoding
+###  2. Ordinal Encoding
 
 - Assigns numerical values based on order or ranking
 
@@ -60,7 +56,6 @@ Categorical data represents features with discrete values such as:
 | Order Considered | ❌ No | ✅ Yes |
 | Use Case | Nominal Data | Ordered Data |
 
----
 
 ## 🛠️ Technologies Used
 
@@ -69,7 +64,6 @@ Categorical data represents features with discrete values such as:
 - NumPy
 - Scikit-learn
 
----
 
 ## 📂 Project Workflow
 
@@ -81,11 +75,10 @@ Categorical data represents features with discrete values such as:
 4. Transformed categorical data into numeric form
 5. Compared original vs encoded data
 
----
 
 ## ⚙️ Implementation
 
-### 🔹 Label Encoding
+###  Label Encoding
 
 ```python
 from sklearn.preprocessing import LabelEncoder
