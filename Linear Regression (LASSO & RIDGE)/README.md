@@ -84,7 +84,7 @@ In this project, I applied regularization techniques on a housing dataset to:
 - Regularization improves model stability and performance
 - 
 
-## ⚠️ Notes
+##  Notes
 
 - Convergence warning observed in Lasso  
   ✔ Can be solved by:
