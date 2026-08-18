@@ -1,5 +1,4 @@
 # Feature Scaling in Machine Learning
-
 This project focuses on understanding and implementing **Feature Scaling**, an essential preprocessing step in Machine Learning.
 Feature scaling helps normalize the range of independent variables, improving the performance and convergence of ML models.
 
@@ -25,7 +24,6 @@ It is especially important for algorithms like:
 
   x' = (x - min) / (max - min)
 
-
 ## 🛠️ Technologies Used
 
 - Python
@@ -45,8 +43,8 @@ In this project:
   - MinMaxScaler
 - Compared original vs scaled data
 - Visualized the impact of scaling
+  
 ## Key Observations
-
 - Features with large ranges dominate smaller ones
 - Scaling improves model performance
 - Standardization works well for normally distributed data
