@@ -23,7 +23,6 @@ It is also called an **Error Matrix**.
 | Actual 1 | FN | TP |
 
 Where:
-
 - **TN (True Negative)** → Model predicted No, and actual value is No
 - **TP (True Positive)** → Model predicted Yes, and actual value is Yes
 - **FN (False Negative)** → Model predicted No, but actual value is Yes  
@@ -56,9 +55,7 @@ Spam Detection
 Fraud Detection
 Formula:
 - Recall = TP / (TP + FN)
-
 - Higher Recall → Lower False Negatives
-
 
 ## 6. Precision
 Precision measures how many predicted positive cases are actually correct.
