@@ -1,12 +1,10 @@
 #  Handling Missing Values in Machine Learning
 This project focuses on understanding and handling **missing data**, which is a crucial step in data preprocessing for Machine Learning.
-
 Missing values can negatively impact model performance, so it is important to handle them properly before training models.
 
 ##  What are Missing Values?
 
 Missing values occur when no data is stored for a feature in a dataset.
-
 Common reasons:
 - Data not collected properly
 - Human errors
@@ -26,11 +24,9 @@ Common reasons:
   - Median (for skewed data)
   - Mode (for categorical data)
 
-
 ### 3. Forward Fill / Backward Fill
 - Fill missing values using previous or next values
 - Useful in time-series data
-
 
 ### 4. Using Scikit-learn Imputer
 - `SimpleImputer` used for automated handling
@@ -56,7 +52,6 @@ Common reasons:
 5. Compared results before and after preprocessing
 
 ##  Key Learnings
-
 - Missing data must be handled before model training
 - Different techniques are used based on data type
 - Median is better for skewed data
