@@ -1,5 +1,4 @@
 # Function Transformation in Machine Learning
-
 This project demonstrates the concept of **Function Transformation**, a technique used to transform data into a more suitable format for Machine Learning models.
 Function transformation helps in handling skewed data, improving normality, and enhancing model performance.
 
@@ -70,6 +69,7 @@ to understand the effect of transformations.
 - Matplotlib
 - Seaborn
 - Scikit-learn
+  
 ##  Key Observations
 - Log transformation effectively reduces right skewness
 - Square root transformation smoothens data distribution
